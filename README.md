@@ -194,6 +194,24 @@ There are 3 major steps to build a dashboard on IBM Cognos Analytics:
 
 ### Create a connection to singlestore database
 
+Launch IBM Cognos Analytics from CP4D instance console or ask the administrator to provide the Cognos Analytics url.
+
+- Firstly, launch CP4D instance by using url provided by your adminstrator.
+See the below screenshot of the CP4D login page. Provide appropriate credentials given by your administrator.
+![](images/CP4DLoginScreen.png)
+
+Now you will see a CP4D Home page as follows:
+![](images/CP4DHomePage.png)
+
+- Click on menu bar and click Instances to see the installed services. Here we want to see if Cognos Analytics is installed. See below screenshot for details.
+![](images/CP4DInstances.png)
+
+- Now click on Cognos Analytics to launch the instance. See below screenshot for details.
+![](images/LaunchCognosAnalytics.png)
+
+
+
+
 
 ### Create a module to load and publish the metadata to the cognos public folder section.
 
