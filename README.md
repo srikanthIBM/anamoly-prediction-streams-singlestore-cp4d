@@ -29,6 +29,7 @@ In this code pattern, you will see how to detect anamolies in IoT event streams 
 1. [Clone the repo](#7-clone-the-repo)
 1. [Build and run the application](#8-build-and-run-the-application)
 9. [Deploy and run the AI model](#9-deploy-and-run-the-ai-model)
+10. [Create dashboard using IBM Cognos Analytics](#10-create-dashboard-using-IBM-Cognos-Analytics)
 
 ## 1. Create an instance of IBM Event Streams
 
@@ -180,3 +181,10 @@ java -jar ./build/libs/event-streams-producer-client-2.0.jar [kafka_brokers_sasl
 ![view_jobs](images/view_jobs.png)
 
 - The results of the AI model will be stored into `predictions` table on singlestore database.
+
+
+##10. Create dashboard using IBM Cognos Analytics
+
+Document in progress
+
+
