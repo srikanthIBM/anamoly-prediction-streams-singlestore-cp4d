@@ -249,10 +249,14 @@ See below screenshot to load metadata of the tables.
 
 
 
-
-
 ### To access the module and build dashboard:
 
 To create a dashboard using IBM Cognos Analytics, refer to the [this tutorial.](https://developer.ibm.com/tutorials/build-dashboards-in-cognos-analytics-on-ibm-cloud-pak-for-data/)
 
+- Below is the dashboard which will represent the Historical and Average Temperature trends.
+- Historical Temperature trends.
+![](images/HistoricalTempTrendDashboard.png)
+
+- Average Temperature trends 
+![](images/AverageTempTrendDashboard.png)
 
