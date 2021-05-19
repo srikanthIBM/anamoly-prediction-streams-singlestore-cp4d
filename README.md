@@ -244,10 +244,8 @@ See below screenshot to load metadata of the tables.
 ![](images/DataModuleDataServerCon2.png)
 ![](images/DataModuleTableSelection.png)
 
-- Save the module within the Public folder of the Congos.
+- Save the module within the Team Content folder of the Congos.
 ![](images/DataModuleSave.png)
-
-
 
 
 
