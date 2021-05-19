@@ -249,7 +249,7 @@ See below screenshot to load metadata of the tables.
 
 
 
-### To access the module and build dashboard:
+### iii. To access the module and build dashboard:
 
 To create a dashboard using IBM Cognos Analytics, refer to the [this tutorial.](https://developer.ibm.com/tutorials/build-dashboards-in-cognos-analytics-on-ibm-cloud-pak-for-data/)
 
