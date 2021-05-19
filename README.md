@@ -232,6 +232,7 @@ See below screenshot to load metadata of the tables.
 ### ii. Create a module to load and publish the metadata to the cognos public folder section.
 
 - Launch Data module to create a metadata package, which is used as in input source to build a cognos dashboard.
+
 ![](images/LaunchDataModule.png)
 
 - Connect to SingleStore `iotpredictions` database. See below screenshot for details.
@@ -243,9 +244,13 @@ See below screenshot to load metadata of the tables.
 ![](images/DataModuleDataServerCon2.png)
 ![](images/DataModuleTableSelection.png)
 
-- 
+- Save the module within the Public folder of the Congos.
+![](imagesDataModuleSave.png)
 
-- 
+
+
+
+
 
 
 ### To access the module and build dashboard:
