@@ -192,7 +192,7 @@ There are 3 major steps to build a dashboard on IBM Cognos Analytics:
 - 2. Create a module to load and publish the metadata to the cognos public folder section.
 - 3. Access the module and build the dashboard.
 
-### Create a connection to singlestore database
+### i. Create a connection to singlestore database
 
 Launch IBM Cognos Analytics from CP4D instance console or ask the administrator to provide the Cognos Analytics url.
 
