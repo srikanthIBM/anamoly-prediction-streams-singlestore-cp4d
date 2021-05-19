@@ -183,7 +183,7 @@ java -jar ./build/libs/event-streams-producer-client-2.0.jar [kafka_brokers_sasl
 - The results of the AI model will be stored into `predictions` table on singlestore database.
 
 
-##10. Create dashboard using IBM Cognos Analytics
+## 10. Create dashboard using IBM Cognos Analytics
 
 Document in progress
 
