@@ -219,9 +219,14 @@ See the Cognos Analytics home page as below.
 ![](images/ConnectionMariaDb.png)
 
 - In this code pattern, we have used MariaDB connections. See the below screenshot for details.
-![](images/Connectioncredentials)
+![](images/Connectioncredentials.png)
 
+- Next, ensure to load the metadata of the tables that you want to consume from the Cognos Dashboard. In this code pattern to build the dashboard. we will use 2 tables(Data & Predictions). Data table is used to show historical data and the Predictions table will show data related predictions of the temperature of the containers from the AI model that we built and loaded in the SingleStore databse instance in the  previous step.
+See below screenshot to load metadata of the tables.
+![](images/ConnectionLoadMetadata.png)
 
+- See below screenshot for the sample data snapshot(SingleStore database) of the 2 tables that we have used in the cognos dashboard.
+![](images/DataSnaphot.png)
 
 
 - 
