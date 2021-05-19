@@ -257,10 +257,10 @@ To create a dashboard using IBM Cognos Analytics, refer to the [this tutorial.](
 - Historical Temperature trends. We have used Date and temperature fields in x & Y axis respectively to build the below widget.
 ![](images/HistoricalTempTrendDashboard.png)
 
-- Average Temperature trends. We have used Date and temperature fields in x & Y axis respectively to build the below widget.
+- Average Temperature trends by date. We have used Date and temperature fields in x & Y axis respectively to build the below widget.
 ![](images/AverageTempTrendDashboard.png)
 
-- Predictions of the temperature for the next 7 days.
+- Temperature Predictions for the next 7 days. We have used Date and Predicted temperature fields in x & Y axis respectively to build the below widget.
 ![](images/PredictionsDashboard.png)
 
 
