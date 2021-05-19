@@ -261,6 +261,6 @@ To create a dashboard using IBM Cognos Analytics, refer to the [this tutorial.](
 ![](images/AverageTempTrendDashboard.png)
 
 - Predictions of the temperature for the next 7 days.
-![](images/Predictions Dashboard.png)
+![](images/PredictionsDashboard.png)
 
 
