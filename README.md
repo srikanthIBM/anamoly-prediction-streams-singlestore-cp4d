@@ -225,13 +225,15 @@ See the Cognos Analytics home page as below.
 See below screenshot to load metadata of the tables.
 ![](images/ConnectionLoadMetadata.png)
 
-- See below screenshot for the sample data snapshot(SingleStore database) of the 2 tables that we have used in the cognos dashboard.
+- See below screenshot for the sample data snapshot(SingleStore database) of the 2 tables that we have used in the Cognos Dashboard.
+
 ![](images/DataSnaphot.png)
 
 
 ### ii. Create a module to load and publish the metadata to the cognos public folder section.
 
-- Launch Data module to create a metadata package, which is used as in input source to build a cognos dashboard.
+- Launch Data module to create a metadata package, which is used as in input source to build a Cognos Dashboard.
+
 
 ![](images/LaunchDataModule.png)
 
@@ -251,7 +253,6 @@ See below screenshot to load metadata of the tables.
 
 ### iii. To access the module and build dashboard:
 
-To create a dashboard using IBM Cognos Analytics, refer to the [this tutorial.](https://developer.ibm.com/tutorials/build-dashboards-in-cognos-analytics-on-ibm-cloud-pak-for-data/)
 
 - Below is the dashboard which will represent the Historical and Average Temperature trends.
 - Historical Temperature trends. We have used Date and temperature fields in x & Y axis respectively to build the below widget.
@@ -262,5 +263,7 @@ To create a dashboard using IBM Cognos Analytics, refer to the [this tutorial.](
 
 - Temperature Predictions for the next 7 days. We have used Date and Predicted temperature fields in x & Y axis respectively to build the below widget.
 ![](images/PredictionsDashboard.png)
+
+- To create a dashboard using IBM Cognos Analytics, refer to the [this tutorial.](https://developer.ibm.com/tutorials/build-dashboards-in-cognos-analytics-on-ibm-cloud-pak-for-data/)
 
 
