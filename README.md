@@ -254,9 +254,13 @@ See below screenshot to load metadata of the tables.
 To create a dashboard using IBM Cognos Analytics, refer to the [this tutorial.](https://developer.ibm.com/tutorials/build-dashboards-in-cognos-analytics-on-ibm-cloud-pak-for-data/)
 
 - Below is the dashboard which will represent the Historical and Average Temperature trends.
-- Historical Temperature trends.
+- Historical Temperature trends. We have used Date and temperature fields in x & Y axis respectively to build the below widget.
 ![](images/HistoricalTempTrendDashboard.png)
 
-- Average Temperature trends 
+- Average Temperature trends. We have used Date and temperature fields in x & Y axis respectively to build the below widget.
 ![](images/AverageTempTrendDashboard.png)
+
+- Predictions of the temperature for the next 7 days.
+![](images/Predictions Dashboard.png)
+
 
