@@ -189,7 +189,6 @@ java -jar ./build/libs/event-streams-producer-client-2.0.jar [kafka_brokers_sasl
 
 Document in progress
 
-To create a dashboard using Embedded dashboard, refere to the below tutorial from step 3.
-[How to build Embedded dashboard](https://github.com/IBM/analyze-insights-on-startup-using-watson-studio/blob/master/README.md)
+[To create a dashboard using IBM Cognos Analytics, refer to the below tutorial.](https://developer.ibm.com/tutorials/build-dashboards-in-cognos-analytics-on-ibm-cloud-pak-for-data/)
 
 
