@@ -245,7 +245,7 @@ See below screenshot to load metadata of the tables.
 ![](images/DataModuleTableSelection.png)
 
 - Save the module within the Public folder of the Congos.
-![](imagesDataModuleSave.png)
+![](images/DataModuleSave.png)
 
 
 
