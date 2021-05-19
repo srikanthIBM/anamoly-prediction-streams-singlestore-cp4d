@@ -203,13 +203,28 @@ See the below screenshot of the CP4D login page. Provide appropriate credentials
 Now you will see a CP4D Home page as follows:
 ![](images/CP4DHomePage.png)
 
-- Click on menu bar and click Instances to see the installed services. Here we want to see if Cognos Analytics is installed. See below screenshot for details.
+- Click on burger menu bar and click on `Instances` under services tab to see the installed services. Here we want to see if Cognos Analytics is installed. See below screenshot for details.
 ![](images/CP4DInstances.png)
 
 - Now click on Cognos Analytics to launch the instance. See below screenshot for details.
 ![](images/LaunchCognosAnalytics.png)
 
+See the Cognos Analytics home page as below.
+![](images/CognosHomePage.png)
 
+- Now to create a SingleStore database connection, click on `Manage`. See below screenshot for details.
+![](images/ConnectionManage1.png)
+
+- Ensure you select either `Maria db connection or MySql` as database connection type and provide the SignleStore credentails. See the below screenshot for details.
+![](images/ConnectionMariaDb.png)
+
+- In this code pattern, we have used MariaDB connections. See the below screenshot for details.
+![](images/Connectioncredentials)
+
+
+
+
+- 
 
 
 
