@@ -187,10 +187,10 @@ java -jar ./build/libs/event-streams-producer-client-2.0.jar [kafka_brokers_sasl
 
 ## 10. Create dashboard using IBM Cognos Analytics
 
-There are 3 step major steps to build a dashboard on IBM Cognos Analytics:
-- 1. Create a database connection 
-- 2. Create a module to load and publish the metadata to the cognos public folder section.
-- 3. Access the module and build the dashboard.
+There are 3 major steps to build a dashboard on IBM Cognos Analytics:
+1. Create a database connection 
+2. Create a module to load and publish the metadata to the cognos public folder section.
+3. Access the module and build the dashboard.
 
 ### Create a connection to singlestore database
 
