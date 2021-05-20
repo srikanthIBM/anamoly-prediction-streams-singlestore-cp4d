@@ -267,3 +267,7 @@ See below screenshot to load metadata of the tables.
 - To create a dashboard using IBM Cognos Analytics, refer to the [this tutorial.](https://developer.ibm.com/tutorials/build-dashboards-in-cognos-analytics-on-ibm-cloud-pak-for-data/)
 
 
+## Summary
+
+We have demonstrated live streaming coming through event streams, it is a secure connection from SingleStore through pipeline which is the most efficient way to ingest into SingleStore database, so if it was a high volume we can still do that. We have also built AI model using SingleStore as a persistent storage for building and deploy and then executing the model realtime and we also have visualisation of not only historical data but also predictions data showcasing in Cognos dashboards.
+
