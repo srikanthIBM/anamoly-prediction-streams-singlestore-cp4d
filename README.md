@@ -269,5 +269,5 @@ See below screenshot to load metadata of the tables.
 
 ## Summary
 
-We have demonstrated live streaming coming through event streams, it is a secure connection from SingleStore through pipeline which is the most efficient way to ingest into SingleStore database, so if it was a high volume we can still do that. We have also built AI model using SingleStore as a persistent storage for building and deploy and then executing the model realtime and we also have visualisation of not only historical data but also predictions data showcasing in Cognos dashboards.
+We have demonstrated live streaming coming through event streams, it is a secure connection from SingleStore through pipeline which is the most efficient way to ingest into SingleStore database, so if it was a high volume we can still do that. We have also built AI model in Cloud Pak for Data environment using SingleStore as a persistent storage for building and deploy and then executing the model realtime and we also have visualisation of not only historical data but also predictions data showcasing in Cognos dashboards which is again on IBM Cloud Pak for Data.
 
